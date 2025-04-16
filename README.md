@@ -1,6 +1,6 @@
 <div align="center">
 
-# Data Lovers <img src="https://s6.gifyu.com/images/My_No_Face_costume_-removebg-preview.png" width="65" height="65" /> Studio Ghibli
+# Data Lovers  -  Studio Ghibli
 
 <img src="https://s6.gifyu.com/images/-4dbf08ec31009d07.gif" width="50%" />
 
